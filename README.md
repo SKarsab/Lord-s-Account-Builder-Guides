@@ -1,4 +1,4 @@
-# Lord-s-Account-Builder-Guides
+# Lords-Mobile-Guides-&-Equipment-Simulator
 
 Technologies Used: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 
