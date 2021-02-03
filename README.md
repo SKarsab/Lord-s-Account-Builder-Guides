@@ -8,10 +8,10 @@ Lord's Mobile Guides & Equipment Simulator is passion project web application in
 HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 
 <h3>Final Goal</h3>
-- Fully responsive, professional design for mobile, and pc users
-- Equipment simulator in order to benchmark strategies, and equipment with real data
-- Troop calculator
-- Helpful guides for the community
+* Fully responsive, professional design for mobile, and pc users
+* Equipment simulator in order to benchmark strategies, and equipment with real data
+* Troop calculator
+* Helpful guides for the community
 
 <h2>Page Previews</h2>
 <h4>Landing Page Preview:</h4>
