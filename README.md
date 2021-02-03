@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 
 <h2>Page Previews</h2>
 <h4>Landing Page Preview:</h4>
-![Imgur](https://i.imgur.com/59qmaBs.png)
+https://i.imgur.com/59qmaBs.png
 
 <h4>Equipment Simulator Preview:</h4>
 In development!
