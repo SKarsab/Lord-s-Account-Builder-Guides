@@ -1,7 +1,7 @@
 # Lords-Mobile-Guides-&-Equipment-Simulator
 This project is currently in development and not completed!
 
-## Description ##
+## About ##
 Lord's Mobile Guides & Equipment Simulator is passion project web application intended to have a positive impact on the Lord's Mobile community. It is a non-profit project with permission from IGG to use their assets. It includes an equipment simulator used to benchmark certain strategies and equipment with real data, a troop calculator, and multiple guides to help new members of the community.
 
 ### Technologies Used: ###
@@ -14,9 +14,9 @@ HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 - Helpful guides for the community
 
 ### Current Progress ###
-- [x] Landing page
-  - [x] Landing page HTML
-  - [x] Landing page CSS
+- [x] Landing Page
+  - [x] Landing Page HTML
+  - [x] Landing Page CSS
 - [ ] Equipment Simulator
   - [ ] Equipment Simulator HTML
   - [ ] Equipment Simulator CSS
@@ -25,12 +25,13 @@ HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
   - [ ] Troop Calculator  HTML
   - [ ] Troop Calculator  CSS
   - [ ] Troop Calculator  PHP
-- [ ] Guide page
-  - [ ] Guide page HTML
-  - [ ] Guide page CSS
-- [ ] About page
-  - [ ] About page HTML
-  - [ ] About page CSS
+- [ ] Guides
+  - [ ] Guides HTML
+  - [ ] Guides CSS
+- [ ] About
+  - [ ] About HTML
+  - [ ] About CSS
+- [ ] Database Design
 
 ## Page Previews ##
 #### Landing Page Preview: ####
