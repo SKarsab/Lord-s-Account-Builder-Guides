@@ -1,0 +1,70 @@
+body {
+    background-image: url("./Assets/homepageBackground.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+a {
+    font-family: 'Roboto', sans-serif !important;
+    text-decoration: none !important;
+}
+
+button {
+    background-color:  rgba(24, 24, 24, 0.9) !important;
+    color: grey !important;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    margin-left: 0px !important;
+    margin-right: -5px !important;
+}
+
+button:hover {
+    color: white !important;
+}
+
+button:active {
+    transform: translateY(4px);
+    outline: none;
+    border: none;
+}
+
+select {
+    background-color:  rgba(24, 24, 24, 0.9) !important;
+    color: grey !important;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.card {
+    background-color: rgba(24, 24, 24, 0.9) !important;
+    color: white !important;
+    border-radius: 10px;
+}
+
+.img-fluid {
+    z-index: -100 !important;
+}
+
+footer {
+    background-color: rgba(24, 24, 24, 0.9);
+    text-align: center !important;
+    margin-top: 30px !important;
+} 
+
+.jewel {
+    height: 50px;
+    width: 50px;
+}
