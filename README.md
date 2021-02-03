@@ -14,6 +14,14 @@ HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 - Helpful guides for the community
 
 <h2>Page Previews</h2>
-==========
-<h4>Landing page</h4>
-![Landing Page Preview]([Imgur](https://i.imgur.com/59qmaBs.png))
+<h4>Landing Page Preview:</h4>
+![Imgur](https://i.imgur.com/59qmaBs.png)
+
+<h4>Equipment Simulator Preview:</h4>
+In development!
+
+<h4>Troop Calculator Preview:</h4>
+In development!
+
+<h4>Guides Home Page Preview:</h4>
+In development!
