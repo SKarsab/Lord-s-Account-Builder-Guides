@@ -16,4 +16,4 @@ HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 <h2>Page Previews</h2>
 ==========
 <h4>Landing page</h4>
-![Landing Page Preview](https://imgur.com/59qmaBs)
+![Landing Page Preview]([Imgur](https://i.imgur.com/59qmaBs.png))
